@@ -1,0 +1,92 @@
+[
+{
+  "id": 1,
+  "name": "Monopoly",
+  "players": "3-6",
+  "duration": "2-4 h",
+  "category": "Family, Strategy",
+  "shelfNumber": "A2",
+  "image": "https://image-resizing.booztcdn.com/monopoly/mooc1009109_cmulticoloured.webp?has_grey=1&has_webp=0&size=source"
+},
+{
+  "id": 2,
+  "name": "Code Names",
+  "players": "2-4",
+  "duration": "30 min",
+  "category": "Strategy, Secret",
+  "shelfNumber": "B2",
+  "image": "https://www.proshop.dk/Images/300x251/3062431_0a2fa830bb30.jpg"
+},
+{
+  "id": 3,
+  "name": "Avalon",
+  "players": "5-9",
+  "duration": "30 min",
+  "category": "Strategy, Secret",
+  "shelfNumber": "D5",
+  "image": "https://images.faraos.dk/ItemImages/722301926192/medium/722301926192.jpg?i=0"
+},
+{
+  "id": 4,
+  "name": "Galaxy Trucker",
+  "players": "2-4",
+  "duration": "30 min",
+  "category": "Social, Strategy",
+  "shelfNumber": "E2",
+  "image": "https://m.media-amazon.com/images/I/61Q06fCOEhL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+},
+{
+  "id": 5,
+  "name": "Spyfall",
+  "players": "3-9",
+  "duration": "45 minutes",
+  "category": "Social, Strategy",
+  "shelfNumber": "B4",
+  "image": "https://cf.geekdo-images.com/Ehx72XRdSeQHISVXcZVnHg__itemrep/img/00p3aUl2ug4XZtXMhB2VqrUmNTg=/fit-in/246x300/filters:strip_icc()/pic2453926.jpg"
+},
+{
+  "id": 6,
+  "name": "Arkham Horror",
+  "players": "1-6",
+  "duration": "2-4 h",
+  "category": "Cooperative, Horror",
+  "shelfNumber": "D6",
+  "image": "https://cdn.kobo.com/book-images/a7f75918-a6d4-4983-973b-aed7da529fee/1200/1200/False/the-art-of-arkham-horror.jpg"
+},
+{
+  "id": 7,
+  "name": "Harry Potter: Quiz",
+  "players": "2-4",
+  "duration": "1-3 h",
+  "category": "Trivia, Family",
+  "shelfNumber": "C2",
+  "image": "https://cf.geekdo-images.com/3M3uOnpeu9RbLFMKQZ3Ajg__original/img/8bTk9tkJ7AMF1srcPBFQtDRdWAA=/0x0/filters:format(jpeg)/pic21446.jpg"
+},
+{
+  "id": 8,
+  "name": "King of New York",
+  "players": "2-6",
+  "duration": "40 min",
+  "category": "Strategy, Family",
+  "shelfNumber": "D4",
+  "image": "https://m.media-amazon.com/images/M/MV5BMTU3OTE4Mzk0Ml5BMl5BanBnXkFtZTYwOTg1MTY5._V1_.jpg"
+},
+{
+  "id": 9,
+  "name": "V-Commandos",
+  "players": "1-4",
+  "duration": "1-2 h",
+  "category": "Cooperative, Strategy",
+  "shelfNumber": "C5",
+  "image": "https://d2qg6c07ydxh2f.cloudfront.net/items/70/img_19970_MAIN.png"
+},
+{
+  "id": 10,
+  "name": "Stormester",
+  "players": "3-9",
+  "duration": "1-4 h",
+  "category": "Creative, Challenge",
+  "shelfNumber": "B3",
+  "image": "https://www.hyggeonkel.dk/static/grafik/produktbilleder/stormester/cache/01-stormester-2024-op-wm.jpg"
+}
+]
